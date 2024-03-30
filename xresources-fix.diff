@@ -1,5 +1,5 @@
---- st-xresources-20200604-9ba7ecf.diff
-+++ st-xresources-20200604-9ba7ecf.diff
+--- st-xresources-signal-reloading-20220407-ef05519.diff
++++ st-xresources-signal-reloading-20220407-ef05519.diff
 @@ -59,11 +59,12 @@ diff --git a/x.c b/x.c
  index 210f184..76f167f 100644
  --- a/x.c
