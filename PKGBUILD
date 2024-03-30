@@ -8,7 +8,7 @@
 
 pkgname=st-mads256h
 _pkgname=st
-pkgver=0.9
+pkgver=0.9.1
 pkgrel=2
 pkgdesc='Simple virtual terminal emulator for X'
 url='https://st.suckless.org/'
@@ -24,7 +24,7 @@ source=("https://dl.suckless.org/st/$_pkgname-$pkgver.tar.gz"
         "https://st.suckless.org/patches/xresources/st-xresources-20200604-9ba7ecf.diff"
         "xresources-fix.diff"
         "config.diff")
-sha256sums=('f36359799734eae785becb374063f0be833cf22f88b4f169cd251b99324e08e7'
+sha256sums=('16f43b9433ade9d70d6085c31f9fd99f2835eaade31221020f22143035dfc0d2'
             '1268ffd79bdf5c01439f4bec76bddb6f8f92d331fc647ce2f67143bf036e45a5'
             '046452606fceb62abc8f068d891c5a5ea3d8d2b8a713d053b568f97100181081'
             '5be9b40d2b51761685f6503e92028a7858cc6571a8867b88612fce8a70514d5b'
